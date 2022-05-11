@@ -1,0 +1,51 @@
+.contactMain {
+    background: #5a5a5a;
+}
+
+.contactDiv form {
+    width: 65%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 3rem auto;
+    background: #222222;
+    border-radius: 10px;
+    padding: 2rem 0;
+    color: white;
+}
+
+.contactDiv form div  {
+    width: 45% !important;
+    margin: 0.5rem 0;
+}
+
+.contactDiv form div input {
+    width: 100% !important;
+    border: none;
+    background: #5a5a5a;
+    border-radius: 5px;
+    padding: 0.5rem 0;
+    text-indent: 10px;
+    color: white;
+}
+
+.contactDiv form button {
+    margin: 1rem 0;
+    width: 45%;
+}
+
+.contactDiv form button:hover {
+    margin: 1rem 0;
+    width: 45%;
+    background: rgba(51, 120, 255, 0.46);
+    transition: 0.8s;
+}
+
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+.contactText {
+    width: 100%;
+    text-align: center;
+}

@@ -1,0 +1,81 @@
+.tr td {
+    padding: 15px 0 !important;
+}
+
+.td1 {
+    width: 30%;
+}
+
+.tdFlex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.onlineTrue {
+    width: 12px;
+    height: 12px;
+    background: darkgreen;
+    border-radius: 50%;
+}
+
+.onlineFalse {
+    width: 12px;
+    height: 12px;
+    background: red;
+    border-radius: 50%;
+}
+
+.edite {
+    font-size: 20px;
+    width: 35%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.edite span {
+    cursor: pointer;
+}
+
+.delete {
+    background: red;
+    width: 40px;
+    height: 35px;
+    border-radius: 5px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.delete:hover {
+    background: #613131;
+    width: 40px;
+    height: 35px;
+    border-radius: 5px;
+    margin-left: 5px;
+    cursor: pointer;
+    transition: 0.8s;
+}
+
+.td1Img {
+    width: 70%;
+    height: 7rem;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.td1Img img {
+    width: 70%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.td1Img h5 {
+    padding-left: 1rem;
+    text-align: center;
+}

@@ -1,0 +1,94 @@
+.tr td {
+    padding: 15px 0 !important;
+}
+
+.td1 {
+    width: 30%;
+}
+
+
+.onlineTrue {
+    width: 12px;
+    height: 12px;
+    background: darkgreen;
+    border-radius: 50%;
+}
+
+.onlineFalse {
+    width: 12px;
+    height: 12px;
+    background: red;
+    border-radius: 50%;
+}
+
+.edite {
+    font-size: 20px;
+    margin: 0 auto;
+    padding: 2px 5px;
+}
+
+.edite span {
+    cursor: pointer;
+}
+
+.delete {
+    background: red;
+    width: 40px;
+    height: 35px;
+    border-radius: 5px;
+    margin-left: 5px;
+    padding: 0 8px 4px 8px;
+    cursor: pointer;
+}
+
+.delete:hover {
+    background: #613131;
+    width: 40px;
+    height: 35px;
+    border-radius: 5px;
+    margin-left: 5px;
+    cursor: pointer;
+    transition: 0.8s;
+}
+
+
+.td1Img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.td1Img h5 {
+    padding-left: 1rem;
+}
+
+.textDelete {
+    text-align: center;
+}
+
+.yesNo {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.yesNo button {
+    margin: 20px;
+    border: none;
+    background: #3378ff;
+    color: white;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+
+.yesNo button:hover {
+    margin: 20px;
+    border: none;
+    background: #395a72;
+    color: white;
+    padding: 5px 25px;
+    border-radius: 5px;
+    transition: 0.8s;
+}

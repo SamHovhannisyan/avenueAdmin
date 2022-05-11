@@ -1,0 +1,34 @@
+.aboutMain {
+    background: #5a5a5a;
+}
+
+.aboutDiv {
+    width: 50%;
+    padding: 2rem 0;
+    margin: 5rem auto;
+    background: #222222;
+    color: white;
+    border-radius: 10px;
+}
+
+.formDiv {
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    width: 70%;
+}
+
+.formDiv textarea {
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    width: 100%;
+    background: #5a5a5a;
+    border: none;
+    border-radius: 5px;
+}
+
+.aboutText {
+    text-align: center;
+    padding: 0.5rem 0;
+}

@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.dropdown-toggle {
+    background: none !important;
+    border: none !important;
+    -webkit-appearance: none !important;
+    -webkit-border-radius: 0;
+}
+
+.dropdown-toggle::after {
+    display: none !important;
+}
+
+.btn-secondary:active:focus {
+    box-shadow: none !important;
+}
+
+.btn-secondary:active:focus {
+    box-shadow: none !important;
+}
+
+button:focus:not(:focus-visible) {
+    outline: none !important;
+}
+
+.header_selectLeng__YSFDU {
+    margin-top: 0.5rem;
+    width: 5rem;
+}
+
+.ReactFlagsSelect-module_label__27pw9 {
+    display: none !important;
+}
+
+.ReactFlagsSelect-module_selectBtn__19wW7:after, .ReactFlagsSelect-module_selectBtn__19wW7[aria-expanded="true"]:after {
+    content: none !important;
+    width: 0;
+    height: 0;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.ReactFlagsSelect-module_selectOptions__3LNBJ .ReactFlagsSelect-module_fullWidthOptions__1XeR6 li {
+    text-align: center !important;
+    display: flex !important;
+    align-items: center !important;
+    flex-direction: column !important;
+    margin: 0 auto !important;
+}
+
+.ReactFlagsSelect-module_selectFlag__2q5gC {
+    display: inline-flex;
+    font-size: 1.5em !important;
+}
+
+.navbar {
+    background: #222 !important;
+}
+
+.offcanvas {
+    background: #222 !important;
+    color: white !important;
+}
+
+.offcanvas-title {
+    color: white !important;
+    font-size: 25px !important;
+    font-weight: bold !important;
+}
+
+.btn-close {
+    color: red !important;
+    display: none !important;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.close {
+    font-weight: bold;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.offcanvas-start {
+    top: 0;
+    left: 0;
+    width: 20% !important;
+    border-right: 1px solid rgba(0, 0, 0, .2);
+    transform: translateX(-100%);
+}
+
+.btn-check:focus + .btn-secondary, .btn-secondary:focus {
+    color: #fff;
+    background-color: #5c636a;
+    border-color: #565e64;
+    box-shadow: none !important;
+}
+
+.nav-tabs {
+    margin: 1rem 0 !important;
+}
+
+.tab-content {
+    margin: 0 auto !important;
+    padding: 0.5rem 0 !important;
+}
+
+.tab-content input {
+    width: 100% !important;
+    text-indent: 10px;
+    border-radius: 8px;
+    border: 1px solid #5a5a5a;
+    padding: 0.3rem 3rem 0.3rem 0;
+}

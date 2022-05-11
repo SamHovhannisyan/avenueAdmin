@@ -1,0 +1,41 @@
+a {
+    text-decoration: none !important;
+    color: white !important;
+}
+
+.APPLICATION {
+    color: #ffffff !important;
+    margin-top: 3rem;
+}
+
+.divOne {
+    margin-top: 2rem;
+}
+
+.iconsDiv a {
+    display: flex !important;
+    align-items: center;
+    width: 100%;
+    color: white !important;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 1rem 0;
+    padding: 5px 15px 8px 15px;
+    border-radius: 5px;
+}
+
+.iconsDiv a:hover {
+    display: flex !important;
+    align-items: center;
+    width: 100%;
+    color: #fff !important;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 1rem 0;
+    background-color: hsla(0, 0%, 100%, 0.13);
+    transition: 0.8s;
+}
+
+.iconsDiv a  span {
+    padding-right: 2rem;
+}

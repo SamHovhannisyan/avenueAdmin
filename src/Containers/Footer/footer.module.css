@@ -1,0 +1,39 @@
+.footer {
+    background-color: #222;
+    width: 100%;
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center !important;
+    color: aliceblue;
+    padding: 0 1rem;
+    margin: 0 auto;
+}
+
+.ft {
+    width: 80% !important;
+    margin: 0 auto !important;
+}
+
+.ft div p {
+    padding-left: 0.5rem;
+    font-size: 18px;
+}
+
+.footer div {
+    display: flex !important;
+    align-items: center !important;
+    width: 100%;
+}
+
+.footer div p {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.fr {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    text-align: end;
+}

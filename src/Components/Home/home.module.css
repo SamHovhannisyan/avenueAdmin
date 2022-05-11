@@ -1,0 +1,32 @@
+.home {
+    background: #5a5a5a;
+    padding: 2.4rem 0;
+}
+
+.productHome {
+    width: 100%;
+    background: #222222;
+    margin: 5rem auto;
+    color: white;
+    border-radius: 8px;
+}
+
+.productHome div h2 {
+    padding: 20px 40px;
+    border-bottom: 0.8px solid white;
+}
+
+.table {
+    width: 100%;
+    text-align: center;
+}
+
+.tr {
+    background-color: rgba(51, 120, 255, 0.09);
+    padding: 10px 0;
+}
+
+.tr th {
+    padding: 10px 0;
+    color: #8f9fbc!important;
+}

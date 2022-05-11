@@ -1,0 +1,113 @@
+.menue {
+    font-size: 25px;
+    padding-left: 1rem;
+    padding-bottom: 0.5rem;
+    cursor: pointer;
+}
+
+.icons {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border: 1px solid #fff;
+    height: 100%;
+    border-radius: 5px;
+    margin-top: 0.4rem;
+}
+
+.borderRight {
+    color: #fff;
+    padding: 0px 12px 4px 12px;
+    cursor: pointer;
+    font-size: 20px;
+    border-right: 1px solid #fff;
+}
+
+.moon {
+    color: #fff;
+    padding: 0px 12px 4px 12px;
+    cursor: pointer;
+    font-size: 20px;
+    border-right: 1px solid #fff;
+}
+
+.borderRightll {
+    color: #fff;
+    padding: 0px 12px 4px 12px;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: #0c2556;
+    border-radius: 5px;
+    border-right: 1px solid #fff;
+}
+
+.moonll {
+    color: #fff;
+    padding: 0px 12px 4px 12px;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: #0c2556;
+    border-radius: 5px;
+    border-right: 1px solid #fff;
+}
+
+.notifaction {
+    color: white;
+    font-size: 28px;
+    padding: 0px 2rem;
+    cursor: pointer;
+}
+
+.selectLeng select {
+    background: none;
+    color: white;
+    border: none;
+    -webkit-appearance: none;
+    -webkit-border-radius:0;
+    border-radius:0;
+    text-align: center;
+    margin-top: 0.2rem;
+}
+
+.selectLeng select:focus {
+    background: none;
+    color: white;
+    border: none !important;
+    -webkit-appearance: none;
+    -webkit-border-radius:0;
+    border-radius:0;
+}
+
+.selectLeng select:active {
+    background: none;
+    color: white;
+    border: none !important;
+    -webkit-appearance: none;
+    -webkit-border-radius:0;
+    border-radius:0;
+}
+
+.flag1 {
+    background-image: url("../../Images/useFlag.png");
+}
+
+.logoProfile {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 5rem;
+    height: 3rem;
+    border-radius: 50% !important;
+}
+
+.logoProfile img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50% !important;
+    margin-right: 0.5rem;
+}
+
+.ReactFlagsSelect-module_selectBtn__19wW7 {
+    border: none !important;
+
+}
